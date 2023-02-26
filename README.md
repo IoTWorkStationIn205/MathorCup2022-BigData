@@ -1,3 +1,3 @@
 # mathorcup--
 
-2021MathorCup大数据挑战赛解决方案
+The solution of MathorCup2022-BigData-Competition.
